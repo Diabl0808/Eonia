@@ -19,3 +19,9 @@ BethINI - Programa para lidiar con varios de los ajustes del juego.
 
 Estos son los más básicos, habrán algunos más e intentaré explicar detalladamente su uso y funcionalidad.
 
+REQUISITOS;
+
+- 16GB RAM
+- Disco duro SSD (250GB de espacio libres)
+- Procesador de 4 o 6 núcleos 
+- Tarjeta gráfica con 6GB+ VRAM
